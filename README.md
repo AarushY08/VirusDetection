@@ -1,5 +1,6 @@
 # VirusDetection
-ISM (Independent Study and Mentorship)
+ISM (Independent Study and Mentorship) 
+Work in Progress
 
 2/19/2025:
 LOG
