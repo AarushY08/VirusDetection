@@ -7,4 +7,5 @@ LOG
 Finished coding the model, with the model getting 92-94% accuracy. there is some stuff I have to change and implement to make this model more accurate.
 
 Cross-Validation Accuracy: 92.43%
+
 Final Test Accuracy: 94.42%
