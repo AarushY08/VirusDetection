@@ -1,4 +1,4 @@
-# VirusDetection
+# Virus Detection
 ISM (Independent Study and Mentorship) 
 Work in Progress
 
