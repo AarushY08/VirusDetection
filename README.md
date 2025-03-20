@@ -28,16 +28,23 @@ Tested different algorithms to see which one is more accurate
 
 
 Decision Tree Evaluation:
+
 Accuracy: 98.79%
+
 Confusion Matrix:
+
 [[19120   185]
+
 [  147  8037]]
 
-
 Random Forest Evaluation:
+
 Accuracy: 99.19%
+
 Confusion Matrix:
+
 [[19184   121]
+
 [  102  8082]]
 
 Concluding that Random Forest generalizes better on this dataset.
