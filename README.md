@@ -6,7 +6,7 @@ Work in Progress
 Log 
 
 
-2/19/2025:
+# 2/19/2025:
 
 
 Finished coding the model, with the model getting 92-94% accuracy. 
@@ -22,7 +22,7 @@ Final Test Accuracy: 94.42%
 
 
 
-3/20/2025
+# 3/20/2025
 
 Tested different algorithms to see which one is more accurate
 
